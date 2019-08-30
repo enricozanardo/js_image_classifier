@@ -1,5 +1,9 @@
 ### Enrico's Image Classifier
 
+Download the repository and then install the requirements.
+
+```pip3 install requirements```
+
 To run the application exceute from the shell the following commands:
 
 ```

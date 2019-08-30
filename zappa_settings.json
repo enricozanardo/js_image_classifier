@@ -5,6 +5,6 @@
         "profile_name": "default",
         "project_name": "image-predictio",
         "runtime": "python3.7",
-        "s3_bucket": "zappa-deiht016a",
+        "s3_bucket": "zappa-eex9ny47b"
     }
 }
