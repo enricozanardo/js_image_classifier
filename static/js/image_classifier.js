@@ -2,6 +2,13 @@ function getResults(error, results){
     if (error) {
         console.error(error)
     } else {
+
+        // Remove previous divs!
+        var list = document.getElementById("result");
+        while (list.hasChildNodes()) {
+            list.removeChild(list.firstChild);
+        }
+
         var div = document.createElement("DIV");
 
         results.forEach(function(entry) {
