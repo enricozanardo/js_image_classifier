@@ -11,3 +11,8 @@ python3 my_app.py
 ```
 
 Go to the browser to ``` http://127.0.0.1:5000/ ``` and have fun 🙌 
+
+
+Run the [demo](https://mg3rg7jwha.execute-api.eu-central-1.amazonaws.com/dev) application.
+
+
